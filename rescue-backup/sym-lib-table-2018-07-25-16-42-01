@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name kazzo_akizuki_nrom-rescue)(type Legacy)(uri ${KIPRJMOD}/kazzo_akizuki_nrom-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--***************************************-->
+<!--   File    : kazzo_akizuki_nrom.fsproj -->
+<!--   Format  : TopoR Project file        -->
+<!--   Version : 2                         -->
+<!--   Program : TopoR Lite 6.3.18019      -->
+<!--   Date    : Monday, July 23, 2018     -->
+<!--   Time    : 18:04                     -->
+<!--***************************************-->
+
+<Project>
+   <Version current="2"/>
+   <GUID>{F9BE5BB8-23C6-4F64-B273-09AE5DABB7F5}</GUID>
+   <Documents>
+      <Section name="PCB">
+         <File path=".\kazzo_akizuki_nrom.fsx" isopened="1" dateChange="2018-07-23 17:50:32"/>
+      </Section>
+      <Section name="AutoRouting"/>
+   </Documents>
+</Project>
